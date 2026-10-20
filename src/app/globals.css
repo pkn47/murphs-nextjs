@@ -33,7 +33,7 @@ body {
 
 /* ---------- Background image with overlay text ---------- */
 .murphys-background {
-  background-image: url("http://courses.ics.hawaii.edu/ics314f25/morea/ui-frameworks/background.jpeg");
+  background-image: url(/murphys-background.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
